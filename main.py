@@ -1,7 +1,7 @@
 import db
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = '1714266268:AAFQFnuxLQXBWI_yLIas5CaNAtqcIMMqa7M'
+TOKEN = '1781065351:AAE9OVbzdE8anMXWQIoDw3Cu7TA-kl1nDws'
 row_num = 10
 
 bot = Bot(token=TOKEN)
